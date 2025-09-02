@@ -1,4 +1,4 @@
-Scoreboard Project
+My Scoreboard Project
 # Getting Started
 Install the dependencies and run the project
 ```
